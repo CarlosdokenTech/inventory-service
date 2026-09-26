@@ -1,0 +1,5 @@
+com\techstore\inventory\ProductController.class
+com\techstore\inventory\InventoryApplication.class
+com\techstore\inventory\Product.class
+com\techstore\inventory\StockRequest.class
+com\techstore\inventory\ProductRepository.class
